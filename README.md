@@ -1,1 +1,1 @@
-hola buenas tarde 
+primer git para configurar el github para el dia a dia 
