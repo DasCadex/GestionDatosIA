@@ -42,3 +42,9 @@ El sistema permite optimizar la gestión de inventario en retail, pasando de una
 | 9. Visualización | Panel con predicciones, stock proyectado y alertas |
 
 ---
+
+# INTEGRANTES:
+- Fernando Villalobos
+- Nicolas Sotomayor
+- Felipe Arriagada
+- Joan Rojas
